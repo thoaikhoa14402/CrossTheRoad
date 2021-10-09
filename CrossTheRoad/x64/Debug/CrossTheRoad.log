@@ -1,4 +1,6 @@
-﻿  Function.cpp
-F:\Bin\Desktop\CrossTheRoad\CrossTheRoad\mylib.h(16,32): warning C4273: 'GetKeyState': inconsistent dll linkage
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5890,1): message : see previous definition of 'GetKeyState'
+﻿  ccgame.cpp
+  game_menu.cpp
+  console.cpp
+  main.cpp
+  Generating Code...
   CrossTheRoad.vcxproj -> F:\Bin\Desktop\CrossTheRoad\x64\Debug\CrossTheRoad.exe

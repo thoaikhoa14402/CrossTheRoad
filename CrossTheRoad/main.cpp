@@ -1,9 +1,10 @@
-#include"mylib.h"
+#include"ccgame.h"
+#include"console.h"
+#include"game_menu.h"
 
 int main()
 {
-	GameMenu menu;
-
+	CGAME game;
 	system("pause > nul");
 	return 0;
 }

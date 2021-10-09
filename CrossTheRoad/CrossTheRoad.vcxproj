@@ -139,11 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Function.cpp" />
+    <ClCompile Include="ccgame.cpp" />
+    <ClCompile Include="game_menu.cpp" />
+    <ClCompile Include="console.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mylib.h" />
+    <ClInclude Include="ccgame.h" />
+    <ClInclude Include="game_menu.h" />
+    <ClInclude Include="console.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
