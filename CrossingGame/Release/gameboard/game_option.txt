@@ -1,0 +1,24 @@
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                                  █
+█       [P]    Pause Game          █
+█       [E]    Resume Game         █
+█       [L]    Save Game           █
+█       [T]    Load Game           █
+█       [M]    Turn on/off music   █
+█       [B]    Back To Menu        █
+█       [ESC]  Exit Game           █
+█                                  █
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+█        ┌───────────────┐         █
+█        │  INSTRUCTION  │         █
+█        └───────────────┘         █
+█ - Use W,A,S,D to move.           █
+█ - Don't hit the object or u lose.█
+█ - Finish 5 levels to win.        █
+█ - Get 100 scores when level up.  █
+█                                  █
+█ NOTE: Objects will move faster   █
+█ when get higher level.           █
+█                                  █
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█

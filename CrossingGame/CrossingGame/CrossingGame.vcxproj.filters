@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CGAME.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCONSOLE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMENU.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CTRAFFICLIGHT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPEOPLE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CTRUCK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCAR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDINOSAUR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CBIRD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CANIMAL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CVEHICLE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="COPTION.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CCONSOLE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMENU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CGAME.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPEOPLE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CANIMAL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CVEHICLE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCAR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CTRUCK.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CBIRD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDINOSAUR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="COPTION.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CTRAFFICLIGHT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
